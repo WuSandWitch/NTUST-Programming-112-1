@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\wusan\Data\Development\NTUST-Programming-112-1\C1121204\C1121204Q01\main.c(34,36): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  C1121204Q01.vcxproj -> C:\Users\wusan\Data\Development\NTUST-Programming-112-1\C1121204\x64\Debug\C1121204Q01.exe
